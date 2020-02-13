@@ -63,5 +63,5 @@ def testface(img64,token):
 if __name__ == '__main__':
     base_img = r'/Users/caopengfei/Documents/dabao/dabao1.jpg'
     img64 = en2base64(base_img)
-    token = getToken()
+    token = getToken('key','skey')
     r = testface(img64,token)
