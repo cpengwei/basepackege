@@ -1,0 +1,12 @@
+Package and Version:
+certifi	2019.11.28	2019.11.28
+chardet	3.0.4	3.0.4
+cssselect	1.1.0	1.1.0
+idna	2.8	2.8
+lxml	4.4.2	4.4.2
+pip	19.3.1	19.3.1
+pyquery	1.4.1	1.4.1
+requests	2.22.0	2.22.0
+setuptools	42.0.2	42.0.2
+urllib3	1.25.7	1.25.7
+wheel	0.33.6	0.33.6
